@@ -1,5 +1,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/v-singhania/)
-<a href="https://www.linkedin.com/in/v-singhania/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin)</a>
 [![Gmail](https://img.shields.io/badge/Email-black?style=flat&logo=gmail)](mailto:vedant.singhania@gmail.com)
 [![Youtube](https://img.shields.io/badge/Youtube-black?style=flat&logo=youtube)](https://www.youtube.com/channel/UCQlMZH56o6O3qHQOlMIrdVg)
 
