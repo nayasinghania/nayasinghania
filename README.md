@@ -1,6 +1,6 @@
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v-singhania/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedant.singhania@gmail.com)
-[![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQlMZH56o6O3qHQOlMIrdVg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/v-singhania/)
+[![Gmail](https://img.shields.io/badge/Email-black?style=flat&logo=gmail)](mailto:vedant.singhania@gmail.com)
+[![Youtube](https://img.shields.io/badge/Youtube-black?style=flat&logo=youtube)](https://www.youtube.com/channel/UCQlMZH56o6O3qHQOlMIrdVg)
 
 # Hey there 👋
 
