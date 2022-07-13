@@ -48,9 +48,16 @@ Want to know more about me? [Check out my portfolio.](https://vedantsinghania.co
 ---
 
 ## 📈 My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vedantsinghania05&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantsinghania05&layout=compact&theme=dark)
+<a href="https://github-readme-stats.vercel.app/api?username=vedantsinghania05&show_icons=true&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantsinghania05&show_icons=true&theme=dark" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantsinghania05&layout=compact&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantsinghania05&layout=compact&theme=dark" />
+</a>
 
-## Current Projects
-I am currently working on Tunestats, an app made using the Spotify developer API. Learn more [here](https://github.com/Tunestats).
-You can check this out at [tunestats.herokuapp.com](https://tunestats.herokuapp.com)
+---
+
+## 🏗️ Current Projects
+<a href="https://github.com/vedantsinghania05/vedantsinghania05.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tunestats&repo=tunestats&theme=dark" />
+</a>
