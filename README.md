@@ -48,7 +48,6 @@ Want to know more about me? [Check out my portfolio.](https://vedantsinghania.co
 ---
 
 ## 📈 My Stats
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vedantsinghania05&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantsinghania05&layout=compact&theme=dark)
 
