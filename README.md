@@ -48,13 +48,8 @@ Want to know more about me? [Check out my portfolio.](https://vedantsinghania.co
 ---
 
 ## 📈 My Stats
-<a href="https://github-readme-stats.vercel.app/api?username=vedantsinghania05&show_icons=true&theme=dark">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=vedantsinghania05&show_icons=true&theme=dark" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantsinghania05&layout=compact&theme=dark">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantsinghania05&&theme=dark" />
-</a>
-
+![](https://raw.githubusercontent.com/vedantsinghania05/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/vedantsinghania05/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ---
 
 ## 🏗️ Current Projects
