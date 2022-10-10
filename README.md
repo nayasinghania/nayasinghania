@@ -53,6 +53,6 @@ Want to know more about me? [Check out my portfolio.](https://vedantsinghania.co
 ---
 
 ## 🏗️ Current Projects
-<a href="https://github.com/vedantsinghania05/vedantsinghania05.github.io">
+<a href="https://github.com/Tunestats/tunestats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tunestats&repo=tunestats&theme=dark" />
 </a>
