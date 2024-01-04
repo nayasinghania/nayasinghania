@@ -48,8 +48,7 @@ Want to know more about me? [Check out my portfolio.](https://vedantsinghania.co
 ---
 
 ## 📈 My Stats
-![](https://raw.githubusercontent.com/vedantsinghania05/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/vedantsinghania05/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+Coming Soon
 ---
 
 ## 🏗️ Current Projects
