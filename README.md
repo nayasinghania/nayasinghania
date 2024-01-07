@@ -58,9 +58,9 @@ Want to know more about me? [Check out my portfolio.](https://vedantsinghania.co
 ---
 
 ## 🏗️ Current Projects
-<a href="https://github.com/Tunestats/tunestats">
+<a href="https://github.com/raspberri05/todo-list">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raspberri05&repo=todo-list" />
 </a>
-<a href="https://github.com/Tunestats/tunestats">
+<a href="https://github.com/raspberri05/weather-scraping">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raspberri05&repo=weather-scraping" />
 </a>
