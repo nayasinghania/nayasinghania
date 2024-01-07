@@ -48,10 +48,19 @@ Want to know more about me? [Check out my portfolio.](https://vedantsinghania.co
 ---
 
 ## 📈 My Stats
-Coming Soon
+<a href="https://github-readme-stats.vercel.app/api?username=raspberri05&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raspberri05&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=raspberri05&size_weight=0.5&count_weight=0.5&langs_count=16&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raspberri05&size_weight=0.5&count_weight=0.5&langs_count=16&layout=compact" />
+</a>
+
 ---
 
 ## 🏗️ Current Projects
 <a href="https://github.com/Tunestats/tunestats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tunestats&repo=tunestats&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raspberri05&repo=todo-list" />
+</a>
+<a href="https://github.com/Tunestats/tunestats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raspberri05&repo=weather-scraping" />
 </a>
