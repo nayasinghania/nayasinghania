@@ -48,19 +48,19 @@ Want to know more about me? [Check out my portfolio.](https://vedantsinghania.co
 ---
 
 ## 📈 My Stats
-<a href="https://github-readme-stats.vercel.app/api?username=raspberri05&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&rank_icon=percentile\&theme-dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raspberri05&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&rank_icon=percentile\&theme-dark" />
+<a href="https://github-readme-stats.vercel.app/api?username=raspberri05&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raspberri05&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&theme=dark" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=raspberri05&size_weight=0.5&count_weight=0.5&langs_count=16&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raspberri05&size_weight=0.5&count_weight=0.5&langs_count=20&layout=compact" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=raspberri05&size_weight=0.5&count_weight=0.5&langs_count=18&layout=compact&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raspberri05&size_weight=0.5&count_weight=0.5&langs_count=18&layout=compact&theme=dark" />
 </a>
 
 ---
 
 ## 🏗️ Current Projects
 <a href="https://github.com/raspberri05/todo-list">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raspberri05&repo=todo-list" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raspberri05&repo=todo-list&theme=dark" />
 </a>
 <a href="https://github.com/raspberri05/weather-scraping">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raspberri05&repo=weather-scraping" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raspberri05&repo=weather-scraping&theme=dark" />
 </a>
