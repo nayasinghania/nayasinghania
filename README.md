@@ -52,7 +52,7 @@ Want to know more about me? [Check out my portfolio.](https://vedantsinghania.co
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raspberri05&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=raspberri05&size_weight=0.5&count_weight=0.5&langs_count=16&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raspberri05&size_weight=0.5&count_weight=0.5&langs_count=16&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raspberri05&size_weight=0.5&count_weight=0.5&langs_count=20&layout=compact" />
 </a>
 
 ---
