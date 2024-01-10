@@ -1,18 +1,4 @@
 <div id="header" align="center">
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/vedantsinghania05">
-      <img src="https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin"/>
-    </a>
-    <a href="mailto:vedant.singhania@gmail.com">
-      <img src="https://img.shields.io/badge/Email-black?style=flat&logo=gmail"/>
-    </a>
-    <a href="https://www.youtube.com/channel/UCQlMZH56o6O3qHQOlMIrdVg">
-      <img src="https://img.shields.io/badge/Youtube-black?style=flat&logo=youtube"/>
-    </a>
-    <a href="https://www.kaggle.com/vedantsinghania/">
-      <img src="https://img.shields.io/badge/Kaggle-black?style=flat&logo=Kaggle"/>
-    </a>
-  </div>
   <h1>Hey there 👋</h1>
 </div>
 
