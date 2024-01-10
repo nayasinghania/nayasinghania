@@ -4,7 +4,9 @@
 
 ## 👨🏽‍💻 About Me :
 
-My name is Vedant Singhania, from Palo Alto, California. I have been coding since I was 12, starting with MIT Scratch. Since then I have become proficient at 4 programming languages by self-teaching and taking computer science classes in school, which I have used to create applications to help people in their everyday lives. More recently, I have delved into the world of Arduino and C/C++ in order to create low-cost products to assist wheelchair users like me to be able to navigate the world more independently.
+My name is Vedant Singhania and I am from Palo Alto, California. I have been coding since I was 12 and since then, I have become highly proficient in HTML, Python, Java, and JavaScript, and various frameworks, I have taken college-level computer science courses in high school, and I am now in the midst of my first year as a computer science major at San Jose State University. While I enjoy working on my own projects to help people in their everyday lives, I also have a passion for contributing to open source code in the community. 
+
+Besides majoring in and having a deep passion for computer science, I am strong in my academics, I love singing in choir, and I often volunteer in the community.
 
 Want to know more about me? [Check out my portfolio.](https://vedantsinghania.com)
 
@@ -49,4 +51,7 @@ Want to know more about me? [Check out my portfolio.](https://vedantsinghania.co
 </a>
 <a href="https://github.com/raspberri05/weather-scraping">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raspberri05&repo=weather-scraping&theme=dark" />
+</a>
+<a href="https://github.com/raspberri05/flight-delay-prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raspberri05&repo=flight-delay-prediction&theme=dark" />
 </a>
