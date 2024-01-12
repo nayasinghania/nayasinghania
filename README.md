@@ -45,3 +45,6 @@ Want to know more about me? [Check out my portfolio.](https://vedantsinghania.co
 <a href="https://github.com/raspberri05/todo-list">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raspberri05&repo=todo-list&theme=dark" />
 </a>
+<a href="https://github.com/raspberri05/ipynb__convert">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raspberri05&repo=ipynb__convert&theme=dark" />
+</a>
