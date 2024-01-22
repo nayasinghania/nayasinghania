@@ -24,24 +24,32 @@ Want to know more about me? [Check out my portfolio.](https://vedantsinghania.co
 
 ## Languages:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="50" height="50"/>
+  
 </div>
 
 ***
 
 ## Other
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://github.com/jekyll/brand/blob/master/jekyll-logo-light-transparent.png" width="80" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://github.com/jekyll/brand/blob/master/jekyll-logo-light-transparent.png" width="75" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="50" height="50"/>
+  <img src="https://github.com/raspberri05/raspberri05/blob/main/github-original-wordmark.png" width="50" height="50"/>
+  
 </div>
 
 ***
