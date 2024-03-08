@@ -48,13 +48,3 @@ Want to know more about me? [Check out my portfolio.](https://vedantsinghania.co
   <img src="https://github.com/raspberri05/raspberri05/blob/main/github-original-wordmark.png" width="50" height="50"/>
   
 </div>
-
-***
-
-## Current Projects
-<a href="https://github.com/raspberri05/todo-list">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raspberri05&repo=todo-list&theme=dark" />
-</a>
-<a href="https://github.com/raspberri05/ipynb_convert">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raspberri05&repo=ipynb_convert&theme=dark" />
-</a>
