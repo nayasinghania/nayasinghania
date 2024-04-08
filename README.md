@@ -24,4 +24,4 @@ Want to know more about me? [Check out my portfolio.](https://vedantsinghania.co
 
 ## Languages and tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,bootstrap,react,nodejs,mongodb,express,python,java,flutter,dart,sass,arduino,bash,linux,md,git,github,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,bootstrap,react,nodejs,mongodb,express,python,java,sass,arduino,flask,firebase,nextjs,sqlitebash,linux,md,git,github,githubactions)](https://skillicons.dev)
