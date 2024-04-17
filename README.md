@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://vedantsinghania.co
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,python,java,scss,md)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,nodejs,mongodb,firebase,express,arduino,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,bootstrap,tailwind,mongodb,firebase,express,arduino,bash,gcp,linux)](https://skillicons.dev)
 
 ## Github Gists
 
