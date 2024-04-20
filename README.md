@@ -27,7 +27,3 @@ Want to know more about me? [Check out my portfolio.](https://vedantsinghania.co
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,python,java,scss,md)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,bootstrap,mongodb,express,arduino,bash,linux)](https://skillicons.dev)
-
-## Github Gists
-
-You can view my gists [here](https://gist.github.com/raspberri05)
