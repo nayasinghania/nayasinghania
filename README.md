@@ -27,3 +27,8 @@ Want to know more about me? [Check out my portfolio.](https://vedantsinghania.co
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,python,java,md)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,bootstrap,mongodb,express,arduino,bash)](https://skillicons.dev)
+
+## Currently learning
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,fastapi,postgres,tailwind,rust)](https://skillicons.dev)
+
