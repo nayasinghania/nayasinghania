@@ -30,5 +30,5 @@ Want to know more about me? [Check out my portfolio.](https://vedantsinghania.co
 
 ## Currently learning
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,flask,postgres,tailwind,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,flask,postgres,tailwind)](https://skillicons.dev)
 
