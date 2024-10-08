@@ -22,7 +22,7 @@ Want to know more about me? [Check out my portfolio.](https://nayasinghania.com)
 
 ***
 
-## Languages and tools
+## Languages and frameworks/libraries
 
 [![My Skills](https://skillicons.dev/icons?i=ts,html,css,python,java,md,bash)](https://skillicons.dev)
 
