@@ -24,6 +24,6 @@ Want to know more about me? [Check out my portfolio.](https://nayasinghania.com)
 
 ## Languages and tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,python,java,md,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,python,java,md,bash)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,bootstrap,tailwind,mongodb,express,gcp,arduino,supabase,postgres,bots)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,btailwind,gcp,arduino,supabase,postgres)](https://skillicons.dev)
