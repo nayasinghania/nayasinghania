@@ -18,4 +18,4 @@ Want to know more about me? [Check out my website.](https://nayasinghania.com)
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,java,md,bash)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,astro,tailwind,arduino,supabase,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,astro,tailwind,arduino,supabase,postgres,figma)](https://skillicons.dev)
