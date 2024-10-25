@@ -14,7 +14,7 @@ Want to know more about me? [Check out my website.](https://nayasinghania.com)
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raspberri05&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true&theme=dark" />
 </a>
 
-## Languages and frameworks/libraries
+## Languages, frameworks/libraries, and dev tools
 
 [![Languages](https://skillicons.dev/icons?i=ts,js,html,css,python,java,md,bash)](https://skillicons.dev)
 
