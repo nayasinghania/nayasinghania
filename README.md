@@ -6,14 +6,6 @@ Besides majoring in and having a deep passion for computer science, I am strong 
 
 Want to know more about me? [Check out my website.](https://nayasinghania.com)
 
-## Stats
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=raspberri05&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=dark" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raspberri05&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=dark" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api?username=raspberri05&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true&theme=dark" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raspberri05&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true&theme=dark" />
-</a>
-
 ## Languages, frameworks/libraries, and dev tools
 
 [![Languages](https://skillicons.dev/icons?i=ts,js,html,css,python,java,md,bash)](https://skillicons.dev)
