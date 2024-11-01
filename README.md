@@ -8,7 +8,7 @@ Want to know more about me? [Check out my website.](https://nayasinghania.com)
 
 ## Languages, frameworks/libraries, and dev tools
 
-[![Languages](https://skillicons.dev/icons?i=ts,js,html,css,java,md,bash)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,html,css,java,py,md,bash)](https://skillicons.dev)
 
 [![Other](https://skillicons.dev/icons?i=nodejs,react,nextjs,astro,supabase,postgres,tailwind,figma,vite,arduino,githubactions)](https://skillicons.dev)
 
