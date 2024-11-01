@@ -12,7 +12,7 @@ Want to know more about me? [Check out my website.](https://nayasinghania.com)
 
 [![Other](https://skillicons.dev/icons?i=nodejs,react,nextjs,astro,supabase,postgres,tailwind,figma,vite,arduino,githubactions)](https://skillicons.dev)
 
-Additional Skills - Web Scraping, ORM,
+Additional Skills - Web Scraping, ORM
 
 ## Current Projects
 
