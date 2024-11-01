@@ -12,6 +12,8 @@ Want to know more about me? [Check out my website.](https://nayasinghania.com)
 
 [![Other](https://skillicons.dev/icons?i=nodejs,react,nextjs,astro,supabase,postgres,tailwind,figma,vite,arduino,githubactions)](https://skillicons.dev)
 
+Additional Skills - Web Scraping, ORM,
+
 ## Current Projects
 
 I'm currently working on a few projects, but mostly working on persona.fm - a web application that allows last.fm usrs to use AI to generate listener "personas" of their listening habits for the past week. 
