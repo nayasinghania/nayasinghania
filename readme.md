@@ -10,4 +10,4 @@ Want to know more about me? [Check out my website.](https://nayasinghania.com)
 
 [![Languages](https://skillicons.dev/icons?i=ts,js,html,css,java,py,md,bash)](https://skillicons.dev)
 
-[![Other](https://skillicons.dev/icons?i=nodejs,react,nextjs,astro,supabase,postgres,tailwind,flask,fastapi,figma,vite,arduino,githubactions)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=nodejs,react,nextjs,astro,supabase,postgres,tailwind,fastapi,aws,gcp,figma,vite,githubactions,arduino)](https://skillicons.dev)
