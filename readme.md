@@ -7,8 +7,9 @@ Besides majoring in and having a deep passion for computer science, I am strong 
 Want to know more about me? [Check out my website.](https://nayasinghania.com)
 
 ## Technical Skills
-
-- **Programming Languages**: TypeScript, JavaScript, Python, HTML, CSS, SQL, Java
-- **Technologies**: Next.js, React, MongoDB, PostgreSQL, LLMs, ML Models, Tailwind CSS, FastAPI, Astro, Vite
-- **Development Tools**: AWS S3, GCP, Docker, Drizzle (ORM), Figma, Git, CI/CD, DevOps, Linux, Jupyter
+- **Programming Languages**: TypeScript, JavaScript, Python, HTML, CSS, SQL, Java, C
+- **Frameworks and Libraries**: Next.js, React, Tailwind CSS, FastAPI, Astro, Vite
+- **Databases**: PostgreSQL, MongoDB, DynamoDB, Drizzle (ORM)
+- **ML/AI**: LLMs, ML Models (Logistic Regression, Classification)
+- **Cloud, DevOps, and Tools**: AWS (S3, Cognito), GCP, Docker, Figma, Git, CI/CD, DevOps, Linux, Jupyter
 
