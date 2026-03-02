@@ -1,15 +1,12 @@
 # About Me
 
-My name is Naya Singhania and I am from the Bay Area in California. I have been coding since I was 12 and since then, I have become highly proficient in Next.js, Python, Java, UI design and other frameworks, languages, and development tools. I am now in the midst of my third year as a computer science major at San José State University. I am currently working on a few applications that I hope will truly help people in their day-to-day lives, as well as contributing to various open-source projects in the community!
+Hi, I’m Naya! I'm passionate about building thoughtful data-driven applications with real-world impact, In addition to proven experience in development across the full stack I have been exploring LLM integrations, RAG, and machine learning models. I’m studying Computer Science at SJSU, interning at Yottasecure, and working on a few full-stack projects! I am also part of community accessibility initiatives, and I enjoy crocheting and music production in my free time!
 
-Besides majoring in and having a deep passion for computer science, I am strong in my academics and I enjoy producing music!
-
-Want to know more about me? [Check out my website.](https://nayasinghania.com)
+Want to know more about me? [Check out my portfolio.](https://nayasinghania.com)
 
 ## Technical Skills
-- **Programming Languages**: TypeScript, JavaScript, Python, HTML, CSS, SQL, Java, C
-- **Frameworks and Libraries**: Next.js, React, Tailwind CSS, FastAPI, Astro, Vite
-- **Databases**: PostgreSQL, MongoDB, DynamoDB, Drizzle (ORM)
-- **ML/AI**: LLMs, ML Models (Logistic Regression, Classification)
-- **Cloud, DevOps, and Tools**: AWS (S3, Cognito), GCP, Docker, Figma, Git, CI/CD, DevOps, Linux, Jupyter
+- **ML/AI**: PyTorch, XGBoost, Logistic Regression, LLMs, RAG, AWS Bedrock, Rasa AI
+- **Languages**: TypeScript, JavaScript, Python, SQL, Java, HTML/CSS
+- **Frameworks & Libraries**: Next.js, React, FastAPI, Vite, Playwright, Cypress
+- **Databases & Cloud**: PostgreSQL, AWS (S3, Cognito, DynamoDB), GCP, Docker, CI/CD, Linux, Git
 
