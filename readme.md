@@ -1,12 +1,12 @@
 # About Me
 
-Hi, I’m Naya! I'm passionate about building thoughtful data-driven applications with real-world impact, In addition to proven experience in development across the full stack I have been exploring LLM integrations, RAG, and machine learning models. I’m studying Computer Science at SJSU, interning at Yottasecure, and working on a few projects! I am also part of community accessibility initiatives, and I enjoy crocheting and music production in my free time!
+I’m a software engineer passionate about building thoughtful, data-driven software that solves real problems. My work focuses on backend development and applied ML/AI. I’m currently studying Computer Science at San José State University, interning at Yottasecure, and working on several projects. 
 
 Check out my [portfolio](https://nayasinghania.com) to learn more!
 
 ## Technical Skills
-- **ML/AI**: PyTorch, XGBoost, Logistic Regression, LLMs, RAG, AWS Bedrock, Rasa AI
-- **Languages**: TypeScript, JavaScript, Python, SQL, Java, HTML/CSS
-- **Frameworks & Libraries**: Next.js, React, FastAPI, Vite, Playwright, Cypress
-- **Databases & Cloud**: PostgreSQL, AWS (S3, Cognito, DynamoDB), GCP, Docker, CI/CD, Linux, Git
+- **Languages**: Python, Typescript, SQL, Java, C
+- **Databases & Cloud**: PostgreSQL, AWS (Lambda, S3, Cognito, DynamoDB, Bedrock), Docker, CI/CD, Linux, Git, Agile
+- **Machine Learning & AI**: PyTorch, XGBoost, scikit-learn, LLMs, Retrieval-Augmented Generation (RAG)
+- **Frameworks & Libraries**: FastAPI, Express, Node.js, Next.js, Cypress, React
 
