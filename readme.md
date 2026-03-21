@@ -5,8 +5,9 @@ I’m a software engineer passionate about building thoughtful, data-driven soft
 Check out my [portfolio](https://nayasinghania.com) to learn more!
 
 ## Technical Skills
-- **Languages**: Python, Typescript, SQL, Java, C
-- **Databases & Cloud**: PostgreSQL, AWS (Lambda, S3, Cognito, DynamoDB, Bedrock), Docker, CI/CD, Linux, Git, Agile
-- **Machine Learning & AI**: PyTorch, XGBoost, scikit-learn, LLMs, Retrieval-Augmented Generation (RAG)
-- **Frameworks & Libraries**: FastAPI, Express, Node.js, Next.js, Cypress, React
+- **Languages**: Python, TypeScript, SQL, Java, C
+- **Machine Learning**: XGBoost, scikit-learn, PyTorch
+- **Frameworks & Tools**: FastAPI, Express, Node.js, Next.js, React
+- **Databases**: PostgreSQL, MongoDB, DynamoDB
+- **Cloud & Infra**: AWS (Lambda, S3, Cognito), Docker, CI/CD (Github Actions), Linux, Git
 
