@@ -1,6 +1,6 @@
 # About Me
 
-I am an aspiring software engineer specializing in back-end development and applied machine learning! I am passionate about building reliable, data-driven products that solve real-world problems. I am currently in my last year studying Computer Science at SJSU with a certificate in fundamental AI algorithms, expanding my machine learning experience at Break Through Tech, and building projects focusing on accessibility and public transit. I am actively looking for new grad role and am open to connect!
+I am an aspiring software engineer specializing in back-end development and applied machine learning! I am passionate about building reliable, data-driven products that solve real-world problems. I am currently in my last year studying Computer Science at SJSU with a certificate in fundamental AI algorithms, expanding my machine learning experience at Break Through Tech, and building projects focusing on accessibility and public transit. I am actively looking for new grad roles and am open to connect!
 
 Check out my [portfolio](https://nayasinghania.com) to learn more about my technical experience!
 
